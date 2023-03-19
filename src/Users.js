@@ -39,7 +39,7 @@ function Users() {
           </li>
         ))}
       </ul>
-      <button onClick={fetchUsers}>다시 불러오기</button>
+      <button onClick={fetchUsers}> 다시 불러오기 </button>
     </>
   );
 }
